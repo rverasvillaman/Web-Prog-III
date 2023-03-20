@@ -1,0 +1,7 @@
+WARNING:root:Ihre Eingabe kann nicht verarbeitet werden, da der falsche Datentyp verwendet wird.
+INFO:root:User hat eine Eingabe getätigt.
+WARNING:root:Ihre Eingabe kann nicht verarbeitet werden, da der falsche Datentyp verwendet wird.
+INFO: 2023-03-17 09:45:43,501 User hat eine Eingabe getätigt.
+WARNING: 2023-03-17 09:45:43,502 Ihre Eingabe kann nicht verarbeitet werden, da der falsche Datentyp verwendet wird.
+INFO: 2023-03-17 09:47:51,506 User hat eine Eingabe getätigt. 4
+WARNING: 2023-03-17 09:47:51,506 Ihre Eingabe kann nicht verarbeitet werden, da der falsche Datentyp verwendet wird.
